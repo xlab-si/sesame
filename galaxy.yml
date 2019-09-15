@@ -1,0 +1,23 @@
+namespace: xlab_si
+name: sesame
+version: 1.0.0
+readme: README.md
+
+authors:
+  - XLAB Steampunk <steampunk@xlab.si>
+
+
+description: >
+  Collection that allows you to manage doors on AnsibleFest2019 contraption
+  thingy.
+
+license:
+  - GPL-3.0-or-later
+
+tags:
+  - raspberrypi
+  - silly
+
+repository: https://github.com/xlab-si/sesame
+homepage: https://github.com/xlab-si/sesame
+issues: https://github.com/xlab-si/sesame/issues
